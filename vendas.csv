@@ -1,0 +1,7 @@
+ID_Venda,Data,Categoria_Produto,Quantidade_Vendida,Preco_Unitario,Regiao
+1,2026-01-15,Eletrônicos,2,1500.00,Sudeste
+2,2026-01-20,Vestuário,5,120.00,Sul
+3,2026-02-10,Casa e Decoração,1,450.00,Sudeste
+4,2026-02-18,Eletrônicos,1,3200.00,Nordeste
+5,2026-03-05,Alimentos,10,35.00,Sudeste
+6,2026-03-22,Vestuário,3,89.90,Sul
